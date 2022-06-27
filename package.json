@@ -1,0 +1,27 @@
+{
+  "name": "minecraft-status-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for checking minecraft server status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "minecraft-status-discord-bot"
+  },
+  "keywords": [
+    "minecraft",
+    "discord",
+    "bot",
+    "discord.js",
+    "server",
+    "minecraft-server"
+  ],
+  "author": "krashy227",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.0",
+    "gamedig": "^4.0.4"
+  }
+}
